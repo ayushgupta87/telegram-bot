@@ -1,0 +1,16 @@
+{
+  "group_target": 1944443048,
+  "group_source": 1559223494,
+  "accounts": [
+    {
+      "phone": "+91{10 digits number}",
+      "api_id": "{APP ID IN INT}",
+      "api_hash": "{APP API HASH}"
+    },
+    {
+      "phone": "+913434343434",
+      "api_id": 21643723,
+      "api_hash": "04ce276e98c4e58b25304e88824783a56a5a"
+    }
+  ]
+}
